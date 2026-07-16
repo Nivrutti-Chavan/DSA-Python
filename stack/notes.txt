@@ -1,0 +1,9 @@
+"""
+    explain a stack
+    undo reverse backtrack matching previous
+
+    imp-->>bracket matching
+
+    for interview-->>list
+    for real_life-->>class/obj
+"""
